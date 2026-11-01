@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200632296252",
+    "project_id": "surpatnejewell",
+    "storage_bucket": "surpatnejewell.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200632296252:android:5ffac4e8f5137c78967439",
+        "android_client_info": {
+          "package_name": "com.example.surpatnejewellers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200632296252-clggvsd5b8qngvou4q84ari68rc5ch1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.surpatnejewellers",
+            "certificate_hash": "c603b5bce78698d4295c832c7c6d11bf2aeaefac"
+          }
+        },
+        {
+          "client_id": "200632296252-p57uvdjk9o2dgerkr4f0rb6l8b5a9la5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgywx2UKSXY4kie2_g-dVRjlsD1DrrWrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200632296252-p57uvdjk9o2dgerkr4f0rb6l8b5a9la5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
